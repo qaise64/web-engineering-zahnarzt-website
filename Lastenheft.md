@@ -120,7 +120,7 @@ Wir planen die Entwicklung einer benutzerfreundlichen, professionellen Website f
 
 <br>
 
-<img src="Wireframe/SVG/Johannes Müller.svg" alt="description" width="1920" height="1080">
+<img src="Wireframe/SVG/Johannes-Müller.svg" alt="description" width="1920" height="1080">
 
 <br>
 
