@@ -5,7 +5,7 @@ Dieses Repository enthaelt ein vollstaendiges Web-Engineering-Projekt, das den g
 Das Projekt wurde im Rahmen der Module Web Engineering Praktikum 1 und Praktikum 2 an der Hochschule Niederrhein entwickelt.
 
 **WICHTIG:** Die Live-Demo der implementierten Website finden Sie hier:
-[**Live-Demo: Zahnarzt-Webseite**](https://zahnarzt-2e6381.pages.ide3.de/)
+[**Live-Demo: Zahnarzt-Webseite**](https://qaise64.github.io/web-engineering-zahnarzt-website/)
 
 ## Projekt-Phasen (Von Anforderung bis Code)
 
