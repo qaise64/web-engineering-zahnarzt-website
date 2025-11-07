@@ -28,6 +28,5 @@ Das Projekt ist in drei Phasen unterteilt, die den Software-Lebenszyklus abbilde
 
 * **HTML**
 * **CSS / JavaScript**
-* *(Fuegen Sie hier weitere Technologien wie PHP, SQL, oder spezielle Frameworks ein, falls verwendet)*
 
 **Hinweis:** Dieses Projekt ist ein akademisches Beispiel fuer den Software-Lebenszyklus.
